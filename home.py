@@ -3,10 +3,7 @@ Name: Andrew D'Annolfo & Joey Wix
 Section: MA 346
 """
 
-import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
 from PIL import Image
 
 image = Image.open("used car.jfif")
